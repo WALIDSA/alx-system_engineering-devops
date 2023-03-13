@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 iacta | tial -1
+head -n 3 iacta | tial -n 1
